@@ -1,0 +1,28 @@
+{
+  "name": "onestep",
+  "version": "1.0.0",
+  "description": "Official site of One step towards society",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "keywords": [
+    "onestep"
+  ],
+  "author": "Santhosh Surana",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.1",
+    "jquery": "^3.6.0",
+    "postcss": "^8.4.4",
+    "postcss-loader": "^6.2.1",
+    "sass": "^1.44.0",
+    "sass-loader": "^12.4.0",
+    "tailwindcss": "^2.2.19",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
